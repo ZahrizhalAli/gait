@@ -1,6 +1,7 @@
 streamlit
-mediapipe==0.9.0.1
+mediapipe
 scipy
 numpy
 pandas
 matplotlib
+opencv-python
