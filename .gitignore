@@ -1,0 +1,5 @@
+*-workspace
+__pycache__
+.venv
+.python3.11_venv
+launch.json
